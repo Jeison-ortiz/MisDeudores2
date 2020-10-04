@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">MisDeudores2</string>
+    <string name="hola_mundo">Hello Wordl</string>
+    <string name="textview">TextView</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Name</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="telefono">Télefono</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="repita_contraseña">Repita Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="tex_view">Text_View</string>
+    <string name="respuesta">Name: %s \nEmail: %s \nPhone: %s \nGender: %s \nHobies: %s </string>
+    <string name="masculino">Male</string>
+    <string name="femenino">Female</string>
+    <string name="genero">Genre</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="nadar">Nadar</string>
+    <string name="cine">Cinema</string>
+    <string name="comer">eat</string>
+
+</resources>

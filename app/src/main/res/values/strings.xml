@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MisDeudores2</string>
+    <string name="hola_mundo">Hola mundo!</string>
+    <string name="textview">TextView</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="telefono">Télefono</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="repita_contraseña">Repita Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="tex_view">Text_View</string>
+    <string name="respuesta">Nombre: %s \nCorreo: %s \ntelefono: %s \nGenero %s \npasatiempos %s</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="genero">Genero</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="nadar">Nadar</string>
+    <string name="cine">Cine</string>
+    <string name="comer">Comer</string>
+
+</resources>
